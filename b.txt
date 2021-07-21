@@ -1,1 +1,3 @@
 Noi dung B
+
+Toi vua sua file o nhanh master
